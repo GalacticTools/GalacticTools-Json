@@ -21,7 +21,7 @@
         "Description": "Explorer++ is a free and open-source navigational file manager for Microsoft Windows. It features multi-tabbed panes, bookmarks menu, and a customizable user interface. It can be configured to run portably or use the registry. It can also be set to replace Windows Explorer as the default file manager.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
         "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
-        "ExePath": "\\Explorer\\Explorer++.exe"
+        "ExePath": "\\Explorer++.exe"
     },
     {
         "Type": 1,
