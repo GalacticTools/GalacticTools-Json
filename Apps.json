@@ -1,0 +1,34 @@
+[
+    {
+        "Type": 1,
+        "AppName": "Brave",
+        "Description": "Brave is a more-or-less standard browser that lets users navigate to websites, run web apps, and display online content. Like other browsers, it is free to download and use, remembers site authentication information, and can block online ads from appearing on sites.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/bravelmao%20my%20guy%20u%20gay.png",
+        "URL": "http://163.172.20.135/~galactic/Brave.zip",
+        "ExePath": "Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
+    },
+    {
+        "Type": 1,
+        "AppName": "Firefox",
+        "Description": "Mozilla Firefox is a free open-source browser whose development is overseen by the Mozilla Corporation. ... First released in November 2004, Firefox is completely customizable with themes, plug-ins, and add-ons. Firefox uses Gecko to render webpages, and implements both current and upcoming Web standards.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/firefox-logo.png",
+        "URL": "http://163.172.20.135/~galactic/Firefox%20%281%29%20%282%29.zip",
+        "ExePath": "\\Firefox\\runthis.exe"
+    },
+    {
+        "Type": 0,
+        "AppName": "Explorer++",
+        "Description": "Explorer++ is a free and open-source navigational file manager for Microsoft Windows. It features multi-tabbed panes, bookmarks menu, and a customizable user interface. It can be configured to run portably or use the registry. It can also be set to replace Windows Explorer as the default file manager.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
+        "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
+        "ExePath": "\\Explorer\\Explorer++.exe"
+    },
+    {
+        "Type": 1,
+        "AppName": "Cinema 4D",
+        "Description": "Cinema 4D is a professional 3D modeling, animation, simulation and rendering software solution. Its fast, powerful, flexible and stable toolset make 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development and all types of visualization professionals. Cinema 4D produces stunning results, whether working on your own or in a team.",
+        "AppIcon": "https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:200",
+        "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
+        "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
+    }
+]
