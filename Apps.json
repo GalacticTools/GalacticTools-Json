@@ -1,4 +1,6 @@
 [
+    // Type 1 = Zip
+    // Type 0 = Exe
     {
         "Type": 1,
         "AppName": "Brave",
@@ -30,5 +32,13 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
         "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
         "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
+    },
+    {
+        "Type": 0,
+        "AppName": "Krnl",
+        "Description": "Krnl is arguably one of the best Roblox exploits out there in terms of script execution. Krnl is very stable meaning it rarely crashes. It is also created by the highly reputable Ice Bear, who has shown to create other reliable cheats in the past. Thanks to Krnl's support for the full debug library, drawing library, and many other rarely supported function, it can run the super complex scripts such as Owl Hub. You will no longer need a paid executor for some scripts because this offers some of the previously premium-only features for FREE!",
+        "AppIcon": "https://cdn.discordapp.com/attachments/821191091528400897/882409663147167784/74201710.png",
+        "URL": "http://163.172.20.135/~galactic/krnl.exe",
+        "ExePath": "\\Krnl.exe"
     }
 ]
