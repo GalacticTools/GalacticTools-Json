@@ -5,7 +5,7 @@
         "Description": "Brave is a more-or-less standard browser that lets users navigate to websites, run web apps, and display online content. Like other browsers, it is free to download and use, remembers site authentication information, and can block online ads from appearing on sites.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/bravelmao%20my%20guy%20u%20gay.png",
         "URL": "http://163.172.20.135/~galactic/Brave.zip",
-        "ExePath": "Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
+        "ExePath": "\\Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
     },
     {
         "Type": 1,
@@ -27,7 +27,7 @@
         "Type": 1,
         "AppName": "Cinema 4D",
         "Description": "Cinema 4D is a professional 3D modeling, animation, simulation and rendering software solution. Its fast, powerful, flexible and stable toolset make 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development and all types of visualization professionals. Cinema 4D produces stunning results, whether working on your own or in a team.",
-        "AppIcon": "https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:200",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
         "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
         "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
     }
