@@ -1,4 +1,6 @@
 [
+    //Type 1 = zip
+    //Type 0 = Direct exe
     {
         "Type": 1,
         "AppName": "Brave",
@@ -6,7 +8,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/bravelmao%20my%20guy%20u%20gay.png",
         "URL": "http://163.172.20.135/~galactic/Brave.zip",
         "ExePath": "\\Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe",
-        "GfnStatus": "a"
+        "GfnStatus": "Working"
     },
     {
         "Type": 1,
@@ -15,7 +17,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/firefox-logo.png",
         "URL": "http://163.172.20.135/~galactic/Firefox%20%281%29%20%282%29.zip",
         "ExePath": "\\Firefox\\runthis.exe",
-        "GfnStatus": "b"
+        "GfnStatus": "Working"
     },
     {
         "Type": 0,
@@ -24,7 +26,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
         "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
         "ExePath": "\\Explorer++.exe",
-        "GfnStatus": "c"
+        "GfnStatus": "Working"
     },
     {
         "Type": 0,
@@ -33,7 +35,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1200px-Blender_logo_no_text.png",
         "URL": "http://163.172.20.135/~galactic/blender-2.93.3-windows-x64.msi",
         "ExePath": "\\blender.msi",
-        "GfnStatus": "d"
+        "GfnStatus": "???"
     },
     {
         "Type": 1,
@@ -42,7 +44,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
         "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
         "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat",
-        "GfnStatus": "e"
+        "GfnStatus": "???"
     },
     {
         "Type": 0,
@@ -51,7 +53,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/KrnlLogo.png",
         "URL": "http://163.172.20.135/~galactic/krnl.exe",
         "ExePath": "\\Krnl.exe",
-        "GfnStatus": "f"
+        "GfnStatus": "Crash"
     },
     {
         "Type": 0,
@@ -60,7 +62,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/wrdlogo.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
         "ExePath": "\\JJSploit_6.1.2_.exe",
-        "GfnStatus": "g"
+        "GfnStatus": "???"
     },
     {
         "Type": 0,
@@ -69,6 +71,6 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/synapse-x.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
         "ExePath": "\\SynapseX.exe",
-        "GfnStatus": "h"
+        "GfnStatus": "???"
     }
 ]
