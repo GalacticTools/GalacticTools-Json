@@ -1,5 +1,14 @@
-[
-        {
+[ 
+    {
+        "Type": 1,
+        "AppName": "ExLoader",
+        "Description": "ExLoader - unified library of game modifications [FREE]. Version: 2.6.0. Developer: SwiftSoft LLC. 29.08.2021. 52 901. Cheat Loaders.",
+        "AppIcon": "https://exloader.net/favicon.png",
+        "URL": "http://163.172.20.135/~galactic/ExLoader.zip",
+        "ExePath": "\\ExLoader\\ExLoader\\ExLoader Installer.exe",
+        "GfnStatus": "Working"
+    },
+    {
         "Type": 0,
         "AppName": "CMD",
         "Description": "Command Prompt is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands. ... Command Prompt is officially called Windows Command Processor, but it's also sometimes referred to as ​the command shell or cmd prompt, or even by its filename, cmd.exe.",
