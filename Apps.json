@@ -1,6 +1,6 @@
 [
     //Type 1 = Zip
-    //Type 0 = Exe
+    //Type 0 = Executable
     {
         "Type": 1,
         "AppName": "Brave",
