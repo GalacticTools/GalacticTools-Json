@@ -5,7 +5,8 @@
         "Description": "Brave is a more-or-less standard browser that lets users navigate to websites, run web apps, and display online content. Like other browsers, it is free to download and use, remembers site authentication information, and can block online ads from appearing on sites.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/bravelmao%20my%20guy%20u%20gay.png",
         "URL": "http://163.172.20.135/~galactic/Brave.zip",
-        "ExePath": "\\Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
+        "ExePath": "\\Brave\\BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe",
+        "GfnStatus": "a"
     },
     {
         "Type": 1,
@@ -13,7 +14,8 @@
         "Description": "Mozilla Firefox is a free open-source browser whose development is overseen by the Mozilla Corporation. ... First released in November 2004, Firefox is completely customizable with themes, plug-ins, and add-ons. Firefox uses Gecko to render webpages, and implements both current and upcoming Web standards.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/firefox-logo.png",
         "URL": "http://163.172.20.135/~galactic/Firefox%20%281%29%20%282%29.zip",
-        "ExePath": "\\Firefox\\runthis.exe"
+        "ExePath": "\\Firefox\\runthis.exe",
+        "GfnStatus": "b"
     },
     {
         "Type": 0,
@@ -21,7 +23,8 @@
         "Description": "Explorer++ is a free and open-source navigational file manager for Microsoft Windows. It features multi-tabbed panes, bookmarks menu, and a customizable user interface. It can be configured to run portably or use the registry. It can also be set to replace Windows Explorer as the default file manager.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
         "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
-        "ExePath": "\\Explorer++.exe"
+        "ExePath": "\\Explorer++.exe",
+        "GfnStatus": "c"
     },
     {
         "Type": 0,
@@ -29,7 +32,8 @@
         "Description": "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. ... Blender is cross-platform and runs equally well on Linux, Windows, and Macintosh computers.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1200px-Blender_logo_no_text.png",
         "URL": "http://163.172.20.135/~galactic/blender-2.93.3-windows-x64.msi",
-        "ExePath": "\\blender.msi"
+        "ExePath": "\\blender.msi",
+        "GfnStatus": "d"
     },
     {
         "Type": 1,
@@ -37,7 +41,8 @@
         "Description": "Cinema 4D is a professional 3D modeling, animation, simulation and rendering software solution. Its fast, powerful, flexible and stable toolset make 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development and all types of visualization professionals. Cinema 4D produces stunning results, whether working on your own or in a team.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
         "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
-        "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
+        "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat",
+        "GfnStatus": "e"
     },
     {
         "Type": 0,
@@ -45,7 +50,8 @@
         "Description": "Krnl is arguably one of the best Roblox exploits out there in terms of script execution. Krnl is very stable meaning it rarely crashes. It is also created by the highly reputable Ice Bear, who has shown to create other reliable cheats in the past. Thanks to Krnl's support for the full debug library, drawing library, and many other rarely supported function, it can run the super complex scripts such as Owl Hub. You will no longer need a paid executor for some scripts because this offers some of the previously premium-only features for FREE!",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/KrnlLogo.png",
         "URL": "http://163.172.20.135/~galactic/krnl.exe",
-        "ExePath": "\\Krnl.exe"
+        "ExePath": "\\Krnl.exe",
+        "GfnStatus": "f"
     },
     {
         "Type": 0,
@@ -53,6 +59,16 @@
         "Description": "it is powered by the WeAreDevs Exploit API, JJSploit offers a near full Lua executor. JJSploit also features click teleport, ESP, speed, fly, infinite jump, and so much more. A powerful all in one package.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/wrdlogo.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
-        "ExePath": "\\JJSploit_6.1.2_.exe"
+        "ExePath": "\\JJSploit_6.1.2_.exe",
+        "GfnStatus": "g"
+    },
+    {
+        "Type": 0,
+        "AppName": "SynapseX",
+        "Description": "Synapse X.exe is an executable file originally associated with a scripting utility Synapse X that is often used to inject Roblox exploits. ... In other words, this scripting utility uses functions commonly used by malware.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/synapse-x.png",
+        "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
+        "ExePath": "\\SynapseX.exe",
+        "GfnStatus": "h"
     }
 ]
