@@ -46,5 +46,13 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/KrnlLogo.png",
         "URL": "http://163.172.20.135/~galactic/krnl.exe",
         "ExePath": "\\Krnl.exe"
+    },
+    {
+        "Type": 0,
+        "AppName": "JJSploit",
+        "Description": "it is powered by the WeAreDevs Exploit API, JJSploit offers a near full Lua executor. JJSploit also features click teleport, ESP, speed, fly, infinite jump, and so much more. A powerful all in one package.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/wrdlogo.png",
+        "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
+        "ExePath": "\\JJSploit_6.1.2_.exe"
     }
 ]
