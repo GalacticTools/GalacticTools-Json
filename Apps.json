@@ -22,7 +22,7 @@
         "AppName": "Explorer++",
         "Description": "Explorer++ is a free and open-source navigational file manager for Microsoft Windows. It features multi-tabbed panes, bookmarks menu, and a customizable user interface. It can be configured to run portably or use the registry. It can also be set to replace Windows Explorer as the default file manager.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
-        "URL": "https://ironman.ruu.cloud:2083/cpsess9462005038/download?skipencode=1&file=%2fhome%2fgalactic%2fpublic_html%2fExplorer%2b%2b.exe",
+        "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
         "ExePath": "\\Explorer++.exe",
         "GfnStatus": "Working"
     },
@@ -69,6 +69,15 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/synapse-x.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
         "ExePath": "\\SynapseX.exe",
+        "GfnStatus": "Working"
+    },
+    {
+        "Type": 1,
+        "AppName": "OBS",
+        "Description": "Overview. OBS Studio is a free and open-source software suite for recording and live streaming. Written in C, C++ and Qt, OBS provides real-time source and device capture, scene composition, encoding, recording, and broadcasting.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1024px-OBS.svg.png",
+        "URL": "http://163.172.20.135/~galactic/obs-studio.zip",
+        "ExePath": "\\obs-studio\\bin\\64bit\\obs64.exe",
         "GfnStatus": "Working"
     }
 ]
