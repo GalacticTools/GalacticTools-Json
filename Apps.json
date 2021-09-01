@@ -1,11 +1,20 @@
 [
     {
+        "Type": 1,
+        "AppName": "RClone",
+        "Description": "Rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces. ... It is used at the command line, in scripts or via its API. Users call rclone "The Swiss army knife of cloud storage", and "Technology indistinguishable from magic".",
+        "AppIcon": "https://ipsassets.unraid.net/uploads/monthly_2021_04/rclone.png.a9de4c0ea23be83643d839379f4e53f3.png",
+        "URL": "http://163.172.20.135/~galactic/rclone.zip",
+        "ExePath": "\\rclone\rclone-v1.56.0-windows-386\\rclone.exe",
+        "GfnStatus": "Working"
+    },
+    {
         "Type": 0,
-        "AppName": "GalacticUnzipper",
-        "Description": "A unzipper for geforce now",
+        "AppName": "Galactic Explorer",
+        "Description": "A explorer for geforce now",
         "AppIcon": "https://yt3.ggpht.com/NLhI5VxbhPlxJYlrda8rZNLK43nzO1SG66_JAstAnGP6TA2D7LmG9DjldeM_X30c4fDQInDA6w=s900-c-k-c0x00ffffff-no-rj",
-        "URL": "http://163.172.20.135/~galactic/GalacticUnzipper.exe",
-        "ExePath": "\\GalacticUnzipper.exe",
+        "URL": "http://163.172.20.135/~galactic/Galactic%20Explorer.exe",
+        "ExePath": "\\GalacticExplorer.exe",
         "GfnStatus": "Working"
     },
     {
