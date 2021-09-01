@@ -1,4 +1,13 @@
 [
+        {
+        "Type": 0,
+        "AppName": "CMD",
+        "Description": "Command Prompt is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands. ... Command Prompt is officially called Windows Command Processor, but it's also sometimes referred to as ​the command shell or cmd prompt, or even by its filename, cmd.exe.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1_RuFsevFd1ypJClZSLKwugw.png",
+        "URL": "http://163.172.20.135/~galactic/NotCMDNvidia.exe",
+        "ExePath": "\\NotCmdOfCourse.exe",
+        "GfnStatus": "???"
+    },
     {
         "Type": 1,
         "AppName": "OBS",
@@ -6,7 +15,16 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1024px-OBS.svg.png",
         "URL": "http://163.172.20.135/~galactic/obs-studio.zip",
         "ExePath": "\\OBS\\obs-studio\\bin\\64bit\\obs64.exe",
-        "GfnStatus": "Working"
+        "GfnStatus": "Crash"
+    },
+        {
+        "Type": 0,
+        "AppName": "Streamlabs",
+        "Description": "Streamlabs OBS is a free and open-source streaming software that is based on a fork of OBS and employs Electron for user interface. Streamlabs distributes their user's content over platforms such as Twitch, YouTube Live, and Facebook Live.",
+        "AppIcon": "http://assets.stickpng.com/images/608563de8ae72d000493caa0.png",
+        "URL": "http://163.172.20.135/~galactic/Streamlabs%2BOBS%2BSetup%2B1.4.0-DvN2VGg1EZNiVjh.exe",
+        "ExePath": "\\Streamalabs.exe",
+        "GfnStatus": "???"
     },
     {
         "Type": 1,
