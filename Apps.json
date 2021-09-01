@@ -22,7 +22,7 @@
         "AppName": "Explorer++",
         "Description": "Explorer++ is a free and open-source navigational file manager for Microsoft Windows. It features multi-tabbed panes, bookmarks menu, and a customizable user interface. It can be configured to run portably or use the registry. It can also be set to replace Windows Explorer as the default file manager.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/Explorer%2B%2B-Logo.png",
-        "URL": "http://163.172.20.135/~galactic/Explorer%2B%2B.exe",
+        "URL": "https://ironman.ruu.cloud:2083/cpsess9462005038/download?skipencode=1&file=%2fhome%2fgalactic%2fpublic_html%2fExplorer%2b%2b.exe",
         "ExePath": "\\Explorer++.exe",
         "GfnStatus": "Working"
     },
@@ -69,6 +69,6 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/synapse-x.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
         "ExePath": "\\SynapseX.exe",
-        "GfnStatus": "???"
+        "GfnStatus": "Working"
     }
 ]
