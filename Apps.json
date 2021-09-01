@@ -1,6 +1,33 @@
 [
     {
         "Type": 1,
+        "AppName": "Spotify",
+        "Description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.",
+        "AppIcon": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png",
+        "URL": "hhttp://163.172.20.135/~galactic/Spotify%20%281%29.zip",
+        "ExePath": "\\Spotify%20%281%29\\Spotify\\Spotify.exe",
+        "GfnStatus": "Working"
+    },
+    {
+        "Type": 1,
+        "AppName": "Parsec",
+        "Description": "Parsec is a proprietary desktop capturing application primarily used for playing games through video streaming. Using Parsec, a user can stream video game footage through an Internet connection, allowing one to run a game on one computer but play it remotely through another device.",
+        "AppIcon": "https://www.pinclipart.com/picdir/big/570-5705072_parsec-logo-png-clipart.png",
+        "URL": "http://163.172.20.135/~galactic/Parsec%20%282%29.zip",
+        "ExePath": "\\Parsec (2)\\parsecd.exe",
+        "GfnStatus": "???"
+    },
+    {
+        "Type": 1,
+        "AppName": "Moonlight",
+        "Description": "Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig. ... You can stream your collection of PC games from your GameStream-compatible PC to any supported device and play them remotely.",
+        "AppIcon": "https://avatars.githubusercontent.com/u/6118379?s=280&v=4",
+        "URL": "http://163.172.20.135/~galactic/Moonlight.zipp",
+        "ExePath": "\\Moonlight\\MoonlightPortable-x64-3.1.1\\Moonlight.exe",
+        "GfnStatus": "Working"
+    },
+    {
+        "Type": 1,
         "AppName": "ExLoader",
         "Description": "ExLoader - unified library of game modifications [FREE]. Version: 2.6.0. Developer: SwiftSoft LLC. 29.08.2021. 52 901. Cheat Loaders.",
         "AppIcon": "https://exloader.net/favicon.png",
