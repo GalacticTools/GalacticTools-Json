@@ -1,6 +1,4 @@
 [
-    //Type 1 = zip
-    //Type 0 = Direct exe
     {
         "Type": 1,
         "AppName": "Brave",
