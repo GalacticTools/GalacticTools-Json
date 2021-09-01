@@ -1,6 +1,15 @@
 [
     {
         "Type": 1,
+        "AppName": "OBS",
+        "Description": "Overview. OBS Studio is a free and open-source software suite for recording and live streaming. Written in C, C++ and Qt, OBS provides real-time source and device capture, scene composition, encoding, recording, and broadcasting.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1024px-OBS.svg.png",
+        "URL": "http://163.172.20.135/~galactic/obs-studio.zip",
+        "ExePath": "\\obs-studio\\bin\\64bit\\obs64.exe",
+        "GfnStatus": "Working"
+    },
+    {
+        "Type": 1,
         "AppName": "Brave",
         "Description": "Brave is a more-or-less standard browser that lets users navigate to websites, run web apps, and display online content. Like other browsers, it is free to download and use, remembers site authentication information, and can block online ads from appearing on sites.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/bravelmao%20my%20guy%20u%20gay.png",
@@ -69,15 +78,6 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/synapse-x.png",
         "URL": "http://163.172.20.135/~galactic/JJSploit_Setup_6.1.2.exe",
         "ExePath": "\\SynapseX.exe",
-        "GfnStatus": "Working"
-    },
-    {
-        "Type": 1,
-        "AppName": "OBS",
-        "Description": "Overview. OBS Studio is a free and open-source software suite for recording and live streaming. Written in C, C++ and Qt, OBS provides real-time source and device capture, scene composition, encoding, recording, and broadcasting.",
-        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1024px-OBS.svg.png",
-        "URL": "http://163.172.20.135/~galactic/obs-studio.zip",
-        "ExePath": "\\obs-studio\\bin\\64bit\\obs64.exe",
         "GfnStatus": "Working"
     }
 ]
