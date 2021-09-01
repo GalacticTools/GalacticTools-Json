@@ -24,20 +24,20 @@
         "ExePath": "\\Explorer++.exe"
     },
     {
-        "Type": 1,
-        "AppName": "Cinema 4D",
-        "Description": "Cinema 4D is a professional 3D modeling, animation, simulation and rendering software solution. Its fast, powerful, flexible and stable toolset make 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development and all types of visualization professionals. Cinema 4D produces stunning results, whether working on your own or in a team.",
-        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
-        "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
-        "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
-    },
-    {
         "Type": 0,
         "AppName": "Blender",
         "Description": "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. ... Blender is cross-platform and runs equally well on Linux, Windows, and Macintosh computers.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1200px-Blender_logo_no_text.png",
         "URL": "http://163.172.20.135/~galactic/blender-2.93.3-windows-x64.msi",
         "ExePath": "\\blender.msi"
+    },
+    {
+        "Type": 1,
+        "AppName": "Cinema 4D",
+        "Description": "Cinema 4D is a professional 3D modeling, animation, simulation and rendering software solution. Its fast, powerful, flexible and stable toolset make 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development and all types of visualization professionals. Cinema 4D produces stunning results, whether working on your own or in a team.",
+        "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/C4D_Logo.png",
+        "URL": "http://163.172.20.135/~galactic/Cinema4DR19.zip",
+        "ExePath": "\\Cinema 4D\\Cinema4DR19\\Setup.bat"
     },
     {
         "Type": 0,
