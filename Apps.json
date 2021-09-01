@@ -5,7 +5,7 @@
         "Description": "Overview. OBS Studio is a free and open-source software suite for recording and live streaming. Written in C, C++ and Qt, OBS provides real-time source and device capture, scene composition, encoding, recording, and broadcasting.",
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1024px-OBS.svg.png",
         "URL": "http://163.172.20.135/~galactic/obs-studio.zip",
-        "ExePath": "\\obs-studio\\bin\\64bit\\obs64.exe",
+        "ExePath": "\\OBS\\obs-studio\\bin\\64bit\\obs64.exe",
         "GfnStatus": "Working"
     },
     {
