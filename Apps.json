@@ -1,11 +1,29 @@
 [
     {
+        "Type": 0,
+        "AppName": "GalacticUnzipper",
+        "Description": "A unzipper for geforce now",
+        "AppIcon": "https://yt3.ggpht.com/NLhI5VxbhPlxJYlrda8rZNLK43nzO1SG66_JAstAnGP6TA2D7LmG9DjldeM_X30c4fDQInDA6w=s900-c-k-c0x00ffffff-no-rj",
+        "URL": "http://163.172.20.135/~galactic/GalacticUnzipper.exe",
+        "ExePath": "\\GalacticUnzipper.exe",
+        "GfnStatus": "Working"
+    },
+    {
+        "Type": 0,
+        "AppName": "GalacticUnzipper",
+        "Description": "A unzipper for geforce now",
+        "AppIcon": "https://yt3.ggpht.com/NLhI5VxbhPlxJYlrda8rZNLK43nzO1SG66_JAstAnGP6TA2D7LmG9DjldeM_X30c4fDQInDA6w=s900-c-k-c0x00ffffff-no-rj",
+        "URL": "http://163.172.20.135/~galactic/GalacticUnzipper.exe",
+        "ExePath": "\\GalacticUnzipper.exe",
+        "GfnStatus": "Working"
+    },
+    {
         "Type": 1,
         "AppName": "Spotify",
         "Description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.",
         "AppIcon": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png",
-        "URL": "hhttp://163.172.20.135/~galactic/Spotify%20%281%29.zip",
-        "ExePath": "\\Spotify%20%281%29\\Spotify\\Spotify.exe",
+        "URL": "http://163.172.20.135/~galactic/Spotify%20%281%29.zip",
+        "ExePath": "\\Spotify (1)\\Spotify\\Spotify.exe",
         "GfnStatus": "Working"
     },
     {
