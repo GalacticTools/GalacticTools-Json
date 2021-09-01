@@ -1,4 +1,4 @@
-[ 
+[
     {
         "Type": 1,
         "AppName": "ExLoader",
@@ -6,7 +6,16 @@
         "AppIcon": "https://exloader.net/favicon.png",
         "URL": "http://163.172.20.135/~galactic/ExLoader.zip",
         "ExePath": "\\ExLoader\\ExLoader\\ExLoader Installer.exe",
-        "GfnStatus": "Working"
+        "GfnStatus": "???"
+    },
+    {
+        "Type": 0,
+        "AppName": "TMAC",
+        "Description": "Technitium MAC Address Changer (TMAC) is a freeware utility to instantly change or spoof MAC Address of any network card (NIC).",
+        "AppIcon": "https://myshadow.org/media/tools/images/thumb/technitium.png",
+        "URL": "http://163.172.20.135/~galactic/TMAC_Setup.exe",
+        "ExePath": "\\TMAC.exe",
+        "GfnStatus": "???"
     },
     {
         "Type": 0,
@@ -15,7 +24,7 @@
         "AppIcon": "http://163.172.20.135/~galactic/GalacticTools/Icons/1_RuFsevFd1ypJClZSLKwugw.png",
         "URL": "http://163.172.20.135/~galactic/NotCMDNvidia.exe",
         "ExePath": "\\NotCmdOfCourse.exe",
-        "GfnStatus": "???"
+        "GfnStatus": "Working"
     },
     {
         "Type": 1,
@@ -26,7 +35,7 @@
         "ExePath": "\\OBS\\obs-studio\\bin\\64bit\\obs64.exe",
         "GfnStatus": "Crash"
     },
-        {
+    {
         "Type": 0,
         "AppName": "Streamlabs",
         "Description": "Streamlabs OBS is a free and open-source streaming software that is based on a fork of OBS and employs Electron for user interface. Streamlabs distributes their user's content over platforms such as Twitch, YouTube Live, and Facebook Live.",
